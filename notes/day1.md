@@ -1,0 +1,3 @@
+- create-next-app로 TS/ESLint/src/alias까지 한 번에 구성 완료
+- ESLint + Prettier + import-sort + unused-imports로 기본 품질 가드 정착
+- 내일: 타입 좁히기/유니온 + 첫 ViewModel 작성해서 View에 연결
