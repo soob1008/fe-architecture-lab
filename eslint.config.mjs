@@ -43,6 +43,8 @@ const eslintConfig = [
 
       "simple-import-sort/imports": "warn",
       "simple-import-sort/exports": "warn",
+
+      "@typescript-eslint/no-explicit-any": "warn",
     },
   },
 ];

@@ -1,6 +1,6 @@
 # FE Architecture Lab
 
-## 레이어 규직(초안)
+## 레이어 규칙(초안)
 
 - Service(비훅/IO): fetch, DTO 변환만
 - Business Hook: 캐시/동시성/낙관적 업데이트, 도메인 규칙
