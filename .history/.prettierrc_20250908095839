@@ -1,7 +1,0 @@
-{
-  "semi": true, // 문장 끝 세미콜론 강제
-  "singleQuote": false, // 문자열에 큰 딸옴표 사용
-  "trailingComma": "all", // 여러 줄 객체나 배열에서 후행 쉼표 사용
-  "printWidth": 100, // 100자 넘어가면 줄바꿈
-  "arrowParens": "always" // 화살표 함수 매재변수 괄호 항상 사용
-}

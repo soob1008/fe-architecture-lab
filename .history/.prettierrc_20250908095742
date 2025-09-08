@@ -1,7 +1,0 @@
-{
-  "semi": true, // 문장 끝 세미콜론 강제
-  "singleQuote": false,
-  "trailingComma": "all",
-  "printWidth": 100,
-  "arrowParens": "always"
-}
